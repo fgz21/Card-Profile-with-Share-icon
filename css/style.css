@@ -1,0 +1,85 @@
+body{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	background: rgb(135, 206, 235);
+
+}
+
+
+.container{
+	height: 100vh;
+
+}
+
+
+
+.box{
+	width: 300px;
+
+
+
+}
+
+.box2{
+	width: 60%;
+}
+
+img{
+	height: 230px;
+	width: 100%;
+
+}
+
+.container2{
+
+	height: 233px;
+
+
+
+}
+
+
+
+
+.card2{
+	width: 450px;
+	background: #fff;
+	padding: 20px;
+}
+
+
+h2, p{
+	font-family: 'Bitter', serif;
+	font-size: 13px;
+	color: #000;
+
+}
+
+
+.img2{
+	width: 50px;
+	height: 50px;
+	border-radius: 30px;
+	padding: 5px;
+}
+
+.img3{
+	width: 20px;
+	height: 20px;
+}
+
+
+.img3:hover{
+
+	content: "";
+    display: block;
+    position: relative;
+    top: -16px;
+    right: -16px;
+    width: 100px;
+    background: #000;
+
+
+}
+
